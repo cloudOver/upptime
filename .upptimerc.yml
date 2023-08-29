@@ -12,7 +12,7 @@ sites:
     url: https://paysure-platform.one-pay-stage.paysure.solutions
 
 status-website:
-  # baseUrl: /upptime
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** tests"
