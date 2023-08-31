@@ -2,14 +2,14 @@ owner: cloudover
 repo: upptime
 
 sites:
-  - name: paysure.solutions
-    url: https://paysure.solutions
-  - name: G
-    url: https://payments.gateway.paysure.solutions
-  - name: API
-    url: https://payments-api.one-pay-stage.paysure.solutions
-  - name: Platform
-    url: https://paysure-platform.one-pay-stage.paysure.solutions
+  - name: cloudover.io
+    url: https://cloudover.io
+  - name: dinemic.io
+    url: https://dinemic.io
+  - name: himalaje
+    url: https://himalaje.eu
+  - name: Gitlab
+    url: https://gitlab.cloudover.io
 
 status-website:
   baseUrl: /upptime
