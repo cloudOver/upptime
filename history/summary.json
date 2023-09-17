@@ -22,18 +22,20 @@
     "url": "https://dinemic.io",
     "icon": "https://icons.duckduckgo.com/ip3/dinemic.io.ico",
     "slug": "dinemic-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1589,
-    "timeDay": 2498,
-    "timeWeek": 1738,
-    "timeMonth": 1589,
-    "timeYear": 1589,
-    "dailyMinutesDown": {}
+    "time": 1553,
+    "timeDay": 1703,
+    "timeWeek": 1634,
+    "timeMonth": 1553,
+    "timeYear": 1553,
+    "dailyMinutesDown": {
+      "2023-09-17": 0
+    }
   },
   {
     "name": "himalaje",
