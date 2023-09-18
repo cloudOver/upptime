@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1218,
-    "timeDay": 1727,
-    "timeWeek": 1249,
-    "timeMonth": 1218,
-    "timeYear": 1218,
+    "time": 1204,
+    "timeDay": 942,
+    "timeWeek": 1204,
+    "timeMonth": 1204,
+    "timeYear": 1204,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dinemic.io.ico",
     "slug": "dinemic-io",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 1553,
-    "timeDay": 1652,
-    "timeWeek": 1625,
-    "timeMonth": 1553,
-    "timeYear": 1553,
-    "dailyMinutesDown": {
-      "2023-09-17": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1564,
+    "timeDay": 1415,
+    "timeWeek": 1683,
+    "timeMonth": 1564,
+    "timeYear": 1564,
+    "dailyMinutesDown": {}
   },
   {
     "name": "himalaje",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1237,
-    "timeDay": 1577,
-    "timeWeek": 1222,
-    "timeMonth": 1237,
-    "timeYear": 1237,
+    "time": 1232,
+    "timeDay": 1136,
+    "timeWeek": 1217,
+    "timeMonth": 1232,
+    "timeYear": 1232,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1482,
-    "timeDay": 1740,
-    "timeWeek": 1481,
-    "timeMonth": 1482,
-    "timeYear": 1482,
+    "time": 1468,
+    "timeDay": 1226,
+    "timeWeek": 1459,
+    "timeMonth": 1468,
+    "timeYear": 1468,
     "dailyMinutesDown": {}
   }
 ]
