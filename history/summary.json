@@ -10,11 +10,11 @@
     "uptimeWeek": "99.25%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.78%",
-    "time": 1536,
-    "timeDay": 5074,
-    "timeWeek": 2252,
-    "timeMonth": 1536,
-    "timeYear": 1536,
+    "time": 1528,
+    "timeDay": 5258,
+    "timeWeek": 2298,
+    "timeMonth": 1528,
+    "timeYear": 1528,
     "dailyMinutesDown": {
       "2023-09-24": 75
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.27%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.79%",
-    "time": 2072,
-    "timeDay": 7355,
-    "timeWeek": 3371,
-    "timeMonth": 2072,
-    "timeYear": 2072,
+    "time": 2071,
+    "timeDay": 7299,
+    "timeWeek": 3401,
+    "timeMonth": 2071,
+    "timeYear": 2071,
     "dailyMinutesDown": {
       "2023-09-24": 74
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "99.28%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.79%",
-    "time": 1285,
-    "timeDay": 1434,
-    "timeWeek": 1392,
-    "timeMonth": 1285,
-    "timeYear": 1285,
+    "time": 1276,
+    "timeDay": 1416,
+    "timeWeek": 1381,
+    "timeMonth": 1276,
+    "timeYear": 1276,
     "dailyMinutesDown": {
       "2023-09-24": 72
     }
@@ -65,16 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.cloudover.io.ico",
     "slug": "gitlab",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "95.07%",
     "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
-    "time": 1541,
-    "timeDay": 1758,
-    "timeWeek": 1674,
-    "timeMonth": 1541,
-    "timeYear": 1541,
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 1540,
+    "timeDay": 1898,
+    "timeWeek": 1712,
+    "timeMonth": 1540,
+    "timeYear": 1540,
     "dailyMinutesDown": {
       "2023-09-24": 71
     }
