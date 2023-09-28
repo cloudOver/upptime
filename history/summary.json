@@ -4,18 +4,19 @@
     "url": "https://cloudover.io",
     "icon": "https://icons.duckduckgo.com/ip3/cloudover.io.ico",
     "slug": "cloudover-io",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
     "time": 1499,
     "timeDay": 1251,
     "timeWeek": 2290,
     "timeMonth": 1499,
     "timeYear": 1499,
     "dailyMinutesDown": {
+      "2023-09-28": 5,
       "2023-09-26": 17,
       "2023-09-24": 75
     }
@@ -25,18 +26,19 @@
     "url": "https://dinemic.io",
     "icon": "https://icons.duckduckgo.com/ip3/dinemic.io.ico",
     "slug": "dinemic-io",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
     "time": 1988,
     "timeDay": 1135,
     "timeWeek": 3087,
     "timeMonth": 1988,
     "timeYear": 1988,
     "dailyMinutesDown": {
+      "2023-09-28": 3,
       "2023-09-26": 17,
       "2023-09-24": 74
     }
@@ -46,10 +48,10 @@
     "url": "https://himalaje.eu",
     "icon": "https://icons.duckduckgo.com/ip3/himalaje.eu.ico",
     "slug": "himalaje",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.11%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.10%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.77%",
     "time": 1243,
@@ -58,6 +60,7 @@
     "timeMonth": 1243,
     "timeYear": 1243,
     "dailyMinutesDown": {
+      "2023-09-28": 2,
       "2023-09-26": 17,
       "2023-09-24": 72
     }
@@ -67,9 +70,9 @@
     "url": "https://gitlab.cloudover.io",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.cloudover.io.ico",
     "slug": "gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.13%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.78%",
@@ -79,6 +82,7 @@
     "timeMonth": 1512,
     "timeYear": 1512,
     "dailyMinutesDown": {
+      "2023-09-28": 0,
       "2023-09-26": 17,
       "2023-09-24": 71
     }
