@@ -1,7 +1,7 @@
 url: https://cloudover.io
-status: up
-code: 200
-responseTime: 1245
-lastUpdated: 2024-03-31T23:15:47.468Z
+status: down
+code: 502
+responseTime: 857
+lastUpdated: 2024-04-01T07:57:04.432Z
 startTime: 2023-08-31T19:35:42.035Z
 generator: Upptime <https://github.com/upptime/upptime>
